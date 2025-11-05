@@ -1,0 +1,6 @@
+@AfterShip_challenge_HostAddress = http://localhost:5123
+
+GET {{AfterShip_challenge_HostAddress}}/exchangerate/
+Accept: application/json
+
+###
